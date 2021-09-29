@@ -1,6 +1,6 @@
 # Task_Graduate_Engineer
 
-This code uses Pygame version 2.0.1 and Pythonn 3.9.7
+This code uses Pygame version 2.0.1 and Python 3.9.7
 
 Run file: gametask.py
 
