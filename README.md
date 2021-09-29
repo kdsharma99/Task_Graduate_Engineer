@@ -1,8 +1,8 @@
 # Task_Graduate_Engineer
 
-Thsi code uses Pygame version 2.0.1 and Pythonn 3.9.7
+This code uses Pygame version 2.0.1 and Pythonn 3.9.7
 
-Run file gametask.py
+Run file: gametask.py
 
 Setup.py is to build an exe file
 
